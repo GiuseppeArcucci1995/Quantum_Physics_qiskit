@@ -32,3 +32,11 @@ This project explores the fundamental principles of Quantum Computing, focusing 
 1. **Install Qiskit**  
    ```bash
    pip install qiskit
+✅ Learning Outcomes
+Understand basic quantum logic and quantum gates
+
+Gain experience with Qiskit and IBM Quantum backends
+
+Build and execute circuits both locally and on real quantum hardware
+
+Analyze quantum state outputs and measurement results
